@@ -53,3 +53,26 @@ Tolli er vel skipulagður nemandi. Hann er að byrja á nýrri önn í skólanum
 4.	Gerir allt það sem stendur á listanum
 5.	Fær að njóta restina af deginum í það sem hann vill
 
+
+#Wireframes
+
+## Niðurstaða á login síður
+![](https://github.com/Heimavinna/Heimavinna/blob/main/Myndir%3F/Login%20s%C3%AD%C3%B0a.png)
+## Niðurstaða á umhverfi
+![](https://github.com/Heimavinna/Heimavinna/blob/main/Myndir%3F/Wireframe.png)
+
+Myndir
+## Hugmynd 1
+![](https://github.com/Heimavinna/Heimavinna/blob/main/Myndir%3F/IMG_20220113_120610.jpg)
+## Hugmynd 2
+![](https://github.com/Heimavinna/Heimavinna/blob/main/271361576_897713827611147_4244584053983958855_n.jpg)
+## Hugmynd 3
+![](https://github.com/Heimavinna/Heimavinna/blob/main/271383614_2964768073776366_4850909341660509975_n.jpg)
+## Hugmynd 4
+![](https://github.com/Heimavinna/Heimavinna/blob/main/271387445_429517745450996_7362168536275252724_n.jpg)
+## Hugmynd 5
+![](https://github.com/Heimavinna/Heimavinna/blob/main/271401394_470147837963328_8430029050957597071_n.jpg)
+## Hugmynd 6
+![](https://github.com/Heimavinna/Heimavinna/blob/main/271439364_294032896031738_6130987875718912908_n.jpg)
+## Hugmynd 7
+![](https://github.com/Heimavinna/Heimavinna/blob/main/271441656_955431861776991_3141381129727600745_n.jpg)
