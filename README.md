@@ -54,7 +54,7 @@ Tolli er vel skipulagður nemandi. Hann er að byrja á nýrri önn í skólanum
 5.	Fær að njóta restina af deginum í það sem hann vill
 
 
-#Wireframes
+# Wireframes
 
 ## Niðurstaða á login síður
 ![](https://github.com/Heimavinna/Heimavinna/blob/main/Myndir%3F/Login%20s%C3%AD%C3%B0a.png)
