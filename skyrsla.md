@@ -26,6 +26,7 @@ Einnig til að skipuleggja verkefni dagsins eða bara það sem þarf að klára
 T.d Inna býður ekki nemendum uppá það að leyfa nemendum að skrifa niður heimavinnu, það fellur allt á kennarann. Ef kennarinn gerir það ekki þá er engin heimavinna birt á Innu. Eini reiturinn sem nemandi getur skráð í er til minnis og hann er ótrúlega einfaldur og gefur ekki kost á miklu.
 
 VI. Gagnagrunnshönnun og lýsing gagna í vefkerfi. <br>
+Við notuðum SQLAlchemy fyrir vefsíðuna okkar.
 
 VII. Skjámyndir af vefappi <br>
 
