@@ -31,10 +31,10 @@ Við notuðum SQLAlchemy fyrir vefsíðuna okkar.
 Við stilltum upp tvem töflum í Flask, eina fyrir notanda og hina fyrir 'todo'. Þar var geymt t.d. password og username
 
 VII. Skjámyndir af vefappi <br>
-* [Register](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/Register.png)
-* [Login](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/Login.png)
-* [Home Page](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/HomePage.png)
-* [Drop Down](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/DropDown.png)
+* [Register](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/Register.png?raw=true)
+* [Login](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/Login.png?raw=true)
+* [Home Page](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/HomePage.png?raw=true)
+* [Drop Down](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/DropDown.png?raw=true)
 
 VIII. Tengill á youtube með stutta skjámyndsupptöku af notkun vefapps, sjá https://screencast-o-matic.com/ <br>
 
