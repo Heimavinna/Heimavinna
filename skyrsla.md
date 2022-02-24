@@ -27,7 +27,8 @@ Einnig til að skipuleggja verkefni dagsins eða bara það sem þarf að klára
 T.d Inna býður ekki nemendum uppá það að leyfa nemendum að skrifa niður heimavinnu, það fellur allt á kennarann. Ef kennarinn gerir það ekki þá er engin heimavinna birt á Innu. Eini reiturinn sem nemandi getur skráð í er til minnis og hann er ótrúlega einfaldur og gefur ekki kost á miklu.
 
 VI. Gagnagrunnshönnun og lýsing gagna í vefkerfi. <br>
-Við notuðum SQLAlchemy fyrir vefsíðuna okkar.
+Við notuðum SQLAlchemy fyrir vefsíðuna okkar. 
+Við stilltum upp tvem töflum í Flask, eina fyrir notanda og hina fyrir 'todo'. Þar var geymt t.d. password og username
 
 VII. Skjámyndir af vefappi <br>
 
@@ -35,9 +36,12 @@ VIII. Tengill á youtube með stutta skjámyndsupptöku af notkun vefapps, sjá 
 
 IX. Stillingar og leiðbeiningar fyrir uppsetningu kerfis. <br>
 
+
 X. Heimildir. <br>
+
 
 XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
 
+
 XII. Samantekt. Hvernig tókst til. Hver væru næstu skref, ókláruð virkni, endurbætur osfrv. <br>
-Verkefnið gekk vel hjá okkur. Við byrjuðum á því að vera með mikinn fókus á Javascript og settum upp síðu með því. En við komumst að því að það yrði flókið að nota það og það myndi vera mun einfaldara að nota Flask þannig að við ákváðum að skipta yfir í Flask. Eftir að við skiptum yfir byrjaði allt að rúlla mjög vel. Við byrjuðum að sjá miklar framfarir á síðunni og breytingar sem við náðum ekki að gera með javascript náðum við að gera með flask. Næstu skref hefðu verið að bæta við betri notenda stillingum, eins og að leyfa notenda að vera með mynd, breyta lykilorði og svo framvegis.
+Verkefnið gekk vel hjá okkur. Við byrjuðum á því að vera með mikinn fókus á Javascript og settum upp síðu með því. En við komumst að því að það yrði flókið að nota það og það myndi vera mun einfaldara að nota Flask þannig að við ákváðum að skipta yfir í Flask. Eftir að við skiptum yfir byrjaði allt að rúlla mjög vel. Við byrjuðum að sjá miklar framfarir á síðunni og breytingar sem við náðum ekki að gera með javascript náðum við að gera með flask. Næstu skref hefðu verið að bæta við betri notenda stillingum, eins og að leyfa notenda að vera með mynd, breyta lykilorði og ef við hefðum meiri tíma væri hægt að bæta við einhverjum fleiri snjöllum featurum.
