@@ -40,3 +40,4 @@ X. Heimildir. <br>
 XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
 
 XII. Samantekt. Hvernig tókst til. Hver væru næstu skref, ókláruð virkni, endurbætur osfrv. <br>
+Verkefnið gekk vel hjá okkur. Við byrjuðum á því að vera með mikinn fókus á Javascript og settum upp síðu með því. En við komumst að því að það yrði flókið að nota það og það myndi vera mun einfaldara að nota Flask þannig að við ákváðum að skipta yfir í Flask. Eftir að við skiptum yfir byrjaði allt að rúlla mjög vel. Við byrjuðum að sjá miklar framfarir á síðunni og breytingar sem við náðum ekki að gera með javascript náðum við að gera með flask. Næstu skref hefðu verið að bæta við betri notenda stillingum, eins og að leyfa notenda að vera með mynd, breyta lykilorði og svo framvegis.
