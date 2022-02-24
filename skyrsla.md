@@ -1,4 +1,5 @@
 #### Jónas Orri Daníelsson, Snorri Már Gunnarsson, Stefán Örn Lárusson     VEFÞ2VÞ05DU     Tölvubraut      Tækniskólinn <br>
+[Linkur á kóða repo](https://github.com/Heimavinna/kodi)<br>
 [Linkur á vefsíðu]() <br>
 
 ## Virkni <br>
