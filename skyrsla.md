@@ -42,6 +42,7 @@ IX. Stillingar og leiðbeiningar fyrir uppsetningu kerfis. <br>
 
 
 X. Heimildir. <br>
+[Todo](https://morioh.com/p/0211e637f4db)
 
 
 XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
