@@ -37,6 +37,7 @@ VII. Skjámyndir af vefappi <br>
 * [Drop Down](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/DropDown.png?raw=true)
 
 VIII. Tengill á youtube með stutta skjámyndsupptöku af notkun vefapps, sjá https://screencast-o-matic.com/ <br>
+https://youtu.be/VCfbfWR84Lw
 
 IX. Stillingar og leiðbeiningar fyrir uppsetningu kerfis. <br>
 
