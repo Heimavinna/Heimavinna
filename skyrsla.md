@@ -8,6 +8,22 @@ III. Verkefnalýsing <br> Heimavinnusíðan er ætluð til að frammhaldskólane
 IV. Lýsing verkefnis<br> Við notuðum Flask sem framework. HÉR KEMUR MEIRA UM HÖNNUNARMYNSTUR OG ÞANNIG. <br>
 
 V. Þarfagreining og hönnunarlýsing <br>
+## Hver:
+Nemendur á frammhaldsskólastigi.
+Fólk sem vill mismunandi tabs fyrir fag/vinnu/íþróttir og skipuleggja sig eftir fögum/vinnu.
+
+
+
+
+
+## Hvað:
+Stað til að skipuleggja heimavinnu eða tasks fyrir skóla/vinnu ef áfangasíða/skóli býður ekki uppá það.
+Einnig til að skipuleggja verkefni dagsins eða bara það sem þarf að klára fyrir daginn.
+
+
+
+## Afhverju:
+T.d Inna býður ekki nemendum uppá það að leyfa nemendum að skrifa niður heimavinnu, það fellur allt á kennarann. Ef kennarinn gerir það ekki þá er engin heimavinna birt á Innu. Eini reiturinn sem nemandi getur skráð í er til minnis og hann er ótrúlega einfaldur og gefur ekki kost á miklu.
 
 VI. Gagnagrunnshönnun og lýsing gagna í vefkerfi. <br>
 
