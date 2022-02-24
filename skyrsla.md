@@ -1,5 +1,4 @@
 #### Jónas Orri Daníelsson, Snorri Már Gunnarsson, Stefán Örn Lárusson     VEFÞ2VÞ05DU     Tölvubraut      Tækniskólinn <br>
-[Linkur á kóða repo](https://github.com/Heimavinna/kodi)<br>
 [Linkur á vefsíðu]() <br>
 
 ## Virkni <br>
@@ -9,3 +8,17 @@ III. Verkefnalýsing <br> Heimavinnusíðan er ætluð til að frammhaldskólane
 IV. Lýsing verkefnis<br> Við notuðum Flask sem framework. HÉR KEMUR MEIRA UM HÖNNUNARMYNSTUR OG ÞANNIG. <br>
 
 V. Þarfagreining og hönnunarlýsing <br>
+
+VI. Gagnagrunnshönnun og lýsing gagna í vefkerfi. <br>
+
+VII. Skjámyndir af vefappi <br>
+
+VIII. Tengill á youtube með stutta skjámyndsupptöku af notkun vefapps, sjá https://screencast-o-matic.com/ <br>
+
+IX. Stillingar og leiðbeiningar fyrir uppsetningu kerfis. <br>
+
+X. Heimildir. <br>
+
+XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
+
+XII. Samantekt. Hvernig tókst til. Hver væru næstu skref, ókláruð virkni, endurbætur osfrv. <br>
