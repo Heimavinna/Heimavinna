@@ -41,7 +41,7 @@ VIII. Tengill á youtube með stutta skjámyndsupptöku af notkun vefapps, sjá 
 https://youtu.be/VCfbfWR84Lw
 
 IX. Stillingar og leiðbeiningar fyrir uppsetningu kerfis. <br>
-
+Setja upp Flask, virtual engine, SQLAlchemy, Flask_login og flask_bcrypt í gegnum terminal í vs code. Hýsing var í gegnum Pythonanywhere.
 
 X. Heimildir. <br>
 [Todo](https://morioh.com/p/0211e637f4db)
