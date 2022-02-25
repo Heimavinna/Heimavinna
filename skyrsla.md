@@ -37,6 +37,8 @@ VII. Skjámyndir af vefappi <br>
 * [Login](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/Login.png?raw=true)
 * [Home Page](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/HomePage.png?raw=true)
 * [Drop Down](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/DropDown.png?raw=true)
+* [Stillingar](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/stillingar.png?raw=true)
+* [Breyting](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/breyting.png?raw=true)
 
 VIII. Tengill á youtube með stutta skjámyndsupptöku af notkun vefapps, sjá https://screencast-o-matic.com/ <br>
 https://youtu.be/VCfbfWR84Lw
