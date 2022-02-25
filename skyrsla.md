@@ -48,6 +48,21 @@ X. Heimildir. <br>
 
 
 XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
+Við vorum auðvitað með github 'kodi' repository'ið þar sem að við geymdum verkefnið.
+Við tókum alltaf svona góða fundi í þeim tímum sem við hittumst og unnum út frá þeim.
+Það var mjög þæginlegt og gerði það að verkum að manni fannst maður alltaf vera á sömu síðu.
+Annars fóru mestu framfarinrar fram heima þegar og var greinilegt að við vorum dugleigi
+í að 'pusha' og 'pulla'. Það kom aldrei upp neitt stórt vandamál
+varðandi 'conflicts'.
+
+Það mætti segja að við skiptum þessu í tvo hópa. Snorri sá aðalega um CSS stýlun og JavaScript á
+meðan Stefán og Jónas vorum í bakendanum. Þetta voru ekkert strangar skiptingar og fengu allir
+að dífa tánum ofan í allt. 
+
+Þessi 'github projects' komu sér mjög vel þar sem að það gerði það að verkum að maður sá 
+mikið betur framfarirnar. Maður gat alveg kíkt þangað og séð hvað var eftir og vann maður þá
+bara á því og það var alveg yndislegt að geta sett hluti yfir í done.
+
 
 
 XII. Samantekt. Hvernig tókst til. Hver væru næstu skref, ókláruð virkni, endurbætur osfrv. <br>
