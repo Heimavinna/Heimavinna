@@ -29,8 +29,7 @@ Databasinn var ekkert sérlega flókinn. Við notuðum SQLAlchemy sem kemur með
 þess að geta tengt heimavinnu við ákveðinn notanda. Annars vorum við með hefðbundna dálka eins og username
 og password. Lykilorðið er auðvitað sett inn í gagnagrunninn sem ruglað lykilorð en við notuðum bcrypt
 libraryið fyrir það.
-Við notuðum SQLAlchemy fyrir vefsíðuna okkar. 
-Við stilltum upp tvem töflum í Flask, eina fyrir notanda og hina fyrir 'todo'. Þar var geymt t.d. password og username
+
 
 VII. Skjámyndir af vefappi <br>
 * [Register](https://github.com/Heimavinna/Heimavinna/blob/main/HomePageMyndir/Register.png?raw=true)
