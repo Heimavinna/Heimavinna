@@ -17,6 +17,7 @@ og login_user, logout_user og current_user sem manni fannst virka eins og hálfg
 töfrar síðan voru það UserMixin og LoginManager sem einfölduðuð lífði fyrir mann líka.
 Bcrypt notuðum við til þess að 'hasha' lykilorðunum og er hægt að nota það til að af rugla
 lykilorð o.s.frv. Eftir að öll grunnvirkni var komin á vefsíðuna fórum við að skoða hýsingarmöguleika. Við byrjuðum á Heroku og Netlify en þessir hýsingaraðilar taka ekki við flask öppum. Þá fórum við og leituðum betur og rákumst á Python Anywhere. Við ákváðum að nota það til að hýsa síðuna.
+Login og register síðurnar eru frekar einfaldar, þær nota post method og taka input frá notenda. Á register síðunni er smá javascript sem litar password gluggan rauðan, gulan eða grænan miðað við lengdina á lykilorðinu. Allar upplýsingarnar eru síðan teknar og skráðar í databaseinn.
  <br>
 
 V. Þarfagreining og hönnunarlýsing <br>
