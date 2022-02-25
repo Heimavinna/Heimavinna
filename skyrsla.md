@@ -35,6 +35,7 @@ X. Heimildir. <br>
 
 
 XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
+[Projects](https://github.com/Heimavinna/Heimavinna/projects/1) <br>
 Við vorum auðvitað með github 'kodi' repository'ið þar sem að við geymdum verkefnið.
 Við tókum alltaf svona góða fundi í þeim tímum sem við hittumst og unnum út frá þeim.
 Það var mjög þæginlegt og gerði það að verkum að manni fannst maður alltaf vera á sömu síðu.
@@ -42,7 +43,7 @@ Annars fóru mestu framfarinrar fram heima þegar og var greinilegt að við vor
 í að 'pusha' og 'pulla'. Það kom aldrei upp neitt stórt vandamál
 varðandi 'conflicts'.
 
-Það mætti segja að við skiptum þessu í tvo hópa. Snorri sá aðalega um CSS stýlun og JavaScript á
+Það mætti segja að við skiptum þessu í tvo hópa. Snorri sá aðalega um CSS stýlun og todo skráninguna á
 meðan Stefán og Jónas vorum í bakendanum. Þetta voru ekkert strangar skiptingar og fengu allir
 að dífa tánum ofan í allt. 
 
