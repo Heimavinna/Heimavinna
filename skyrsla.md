@@ -10,7 +10,8 @@ IV. Lýsing verkefnis<br> Við notuðum Flask sem framework. Við settum upp fla
  <br>
 
 V. Þarfagreining og hönnunarlýsing <br>
-[Wiki á hönnun](https://github.com/Heimavinna/Heimavinna/wiki/User-Cases-&-Scenarios)
+[Wiki á hönnun](https://github.com/Heimavinna/Heimavinna/wiki/User-Cases-&-Scenarios) <br>
+[Hönnunarpælingar](https://github.com/Heimavinna/Heimavinna/wiki/Wireframe)
 
 VI. Gagnagrunnshönnun og lýsing gagna í vefkerfi. <br>
 Við notuðum SQLAlchemy fyrir vefsíðuna okkar. 
