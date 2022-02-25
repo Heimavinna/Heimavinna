@@ -7,6 +7,15 @@
 III. Verkefnalýsing <br> Heimavinnusíðan er ætluð til að frammhaldskólanemendur geti skráð niður heimavinnuna sína á þæginlegann og einfaldan máta. Inna býður ekki uppá það að skrá niður heimavinnu og þess vegna ákváðum við að gera heimasíðu til þess að gera nemendum kleift að halda betur utan um heimanámið sitt. Heimavinna skráist niður á notanda og er aðgengileg á hvaða tæki sem notandinn ákveður að nota. <br>
 
 IV. Lýsing verkefnis<br> Við notuðum Flask sem framework. Við settum upp flask og virtual engine í vs code. Síðan byrjuðum við á því að vinna routes, gerðum einföld hello world routes til þess að sjá til þess að allt myndi virka. Eftir að routin voru komin þá var komið að því að gera nav bar og drop down listann. Fyrir dropdown listann var notað efni frá [W3 schools](https://www.w3schools.com/howto/howto_css_dropdown.asp). Þá var komið að aðal dæminu og það er heimavinnuskráningin sjálf. Við notuðum góða [grein](https://morioh.com/p/0211e637f4db) sem hjálpaði mjög mikið að koma síðunni í gang. Eftir að pússla þessu við það sem við höfðum áður verið komnir með þá fórum við að pæla í database og hvernig við ættum að vista Usera, Password og heimavinnuna. Við kynntum okkur SQLAlchemy og settum það upp.
+Það fór smá tími í að kynna sér hvernig SQLAlchemy virkaði, það er mjög öflugt dæmi og skemmtilegt.
+Við vorum búnir að prufa aðrar database leiðir eins og Firebase og MySQL en þau virkuðu ekki. Þegar
+SQLAlchemy virkaði þá fór boltinn að rúlla. Database uppsetningin var einföld og síðan var mjög gaman að
+finna út leiðir til þess að setja réttu hlutina í hann og geta lesið úr honum. Það var notast við nokkur 
+svakalega öflug library eins og flask_login þar sem að hægt far að ná í föll eins
+og login_user, logout_user og current_user sem manni fannst virka eins og hálfgerðir
+töfrar síðan voru það UserMixin og LoginManager sem einfölduðuð lífði fyrir mann líka.
+Bcrypt notuðum við til þess að 'hasha' lykilorðunum og er hægt að nota það til að af rugla
+lykilorð o.s.frv.
  <br>
 
 V. Þarfagreining og hönnunarlýsing <br>
@@ -14,6 +23,12 @@ V. Þarfagreining og hönnunarlýsing <br>
 [Hönnunarpælingar](https://github.com/Heimavinna/Heimavinna/wiki/Wireframe)
 
 VI. Gagnagrunnshönnun og lýsing gagna í vefkerfi. <br>
+
+Databasinn var ekkert sérlega flókinn. Við notuðum SQLAlchemy sem kemur með flask en það er mjög
+öflugt og henntugt. Við notuðumst við tvær töflur User og Todo. Við tengdum þær við hvora aðra til
+þess að geta tengt heimavinnu við ákveðinn notanda. Annars vorum við með hefðbundna dálka eins og username
+og password. Lykilorðið er auðvitað sett inn í gagnagrunninn sem ruglað lykilorð en við notuðum bcrypt
+libraryið fyrir það.
 Við notuðum SQLAlchemy fyrir vefsíðuna okkar. 
 Við stilltum upp tvem töflum í Flask, eina fyrir notanda og hina fyrir 'todo'. Þar var geymt t.d. password og username
 
@@ -43,9 +58,11 @@ Annars fóru mestu framfarinrar fram heima þegar og var greinilegt að við vor
 í að 'pusha' og 'pulla'. Það kom aldrei upp neitt stórt vandamál
 varðandi 'conflicts'.
 
-Það mætti segja að við skiptum þessu í tvo hópa. Snorri sá aðalega um CSS stýlun og todo skráninguna á
-meðan Stefán og Jónas vorum í bakendanum. Þetta voru ekkert strangar skiptingar og fengu allir
-að dífa tánum ofan í allt. 
+Það mætti segja að við skiptum þessu í tvo hópa. Snorri sá aðalega um CSS stýlun og tók það að sér að
+hanna todo skráninguna og láta hana virka. Á meðan Stefán og Jónas vorum í bakendanum. Jónas sá
+um að búa til Login og register forminn og útfærði þau þannig að það var bara hægt að tengja þau
+strax við database þegar Stefán fór í það. Jónas notaði líka smá JavaScript sem er eina JavaScript'ið
+í verkefninu. Þessar verkefna skiptingar voru ekkert strangar og fengu allir að dífa tánum ofan í allt. 
 
 Þessi 'github projects' komu sér mjög vel þar sem að það gerði það að verkum að maður sá 
 mikið betur framfarirnar. Maður gat alveg kíkt þangað og séð hvað var eftir og vann maður þá
