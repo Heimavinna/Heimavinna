@@ -4,7 +4,7 @@
 
 ## Virkni <br>
 
-III. Verkefnalýsing <br> Heimavinnusíðan er ætluð til að frammhaldskólanemendur geti skráð niður heimavinnuna sína á þæginlegann og einfalddann máta. Inna bíður ekki uppá það að skrá niður heimavinnu og þess vegna ákváðum við að gera heimasíðu til þess að gera nemendum kleift að halda betur utan um heimanámið sitt. Heimavinna skráist niður á notanda og er aðgengileg á hvaða tæki sem notandinn ákveður að nota. <br>
+III. Verkefnalýsing <br> Heimavinnusíðan er ætluð til að frammhaldskólanemendur geti skráð niður heimavinnuna sína á þæginlegann og einfaldan máta. Inna býður ekki uppá það að skrá niður heimavinnu og þess vegna ákváðum við að gera heimasíðu til þess að gera nemendum kleift að halda betur utan um heimanámið sitt. Heimavinna skráist niður á notanda og er aðgengileg á hvaða tæki sem notandinn ákveður að nota. <br>
 
 IV. Lýsing verkefnis<br> Við notuðum Flask sem framework. Við settum upp flask og virtual engine í vs code. Síðan byrjuðum við á því að vinna routes, gerðum einföld hello world routes til þess að sjá til þess að allt myndi virka. Eftir að routin voru komin þá var komið að því að gera nav bar og drop down listann. Fyrir dropdown listann var notað efni frá [W3 schools](https://www.w3schools.com/howto/howto_css_dropdown.asp). Þá var komið að aðal dæminu og það er heimavinnuskráningin sjálf. Við notuðum góða [grein](https://morioh.com/p/0211e637f4db) sem hjálpaði mjög mikið að koma síðunni í gang. Eftir að pússla þessu við það sem við höfðum áður verið komnir með þá fórum við að pæla í database og hvernig við ættum að vista Usera, Password og heimavinnuna. Við kynntum okkur SQLAlchemy og settum það upp.
  <br>
