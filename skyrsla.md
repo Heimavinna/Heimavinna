@@ -27,7 +27,7 @@ VI. Gagnagrunnshönnun og lýsing gagna í vefkerfi. <br>
 Databasinn var ekkert sérlega flókinn. Við notuðum SQLAlchemy sem kemur með flask en það er mjög
 öflugt og henntugt. Við notuðumst við tvær töflur User og Todo. Við tengdum þær við hvora aðra til
 þess að geta tengt heimavinnu við ákveðinn notanda. Annars vorum við með hefðbundna dálka eins og username
-og password. Lykilorðið er auðvitað sett inn í gagnagrunninn sem ruglað lykilorð en við notuðum bcrypt
+og password en fyrir Todo databaseinn vorum við með tvo dálka, einn fyrir textan og hinn hélt utan um stöðuna á todo'inu. Lykilorðið er auðvitað sett inn í gagnagrunninn sem ruglað lykilorð en við notuðum bcrypt
 libraryið fyrir það.
 
 
