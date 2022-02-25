@@ -47,8 +47,9 @@ IX. Stillingar og leiðbeiningar fyrir uppsetningu kerfis. <br>
 Setja upp Flask, virtual engine, SQLAlchemy, Flask_login og flask_bcrypt í gegnum terminal í vs code. Hýsing var í gegnum Pythonanywhere.
 
 X. Heimildir. <br>
-[Todo](https://morioh.com/p/0211e637f4db)
-[Dropdown](https://www.w3schools.com/howto/howto_css_dropdown.asp)
+[Todo](https://morioh.com/p/0211e637f4db) <br>
+[Dropdown](https://www.w3schools.com/howto/howto_css_dropdown.asp) <br>
+Stack Overflow 
 
 
 XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
