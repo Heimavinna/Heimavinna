@@ -46,6 +46,7 @@ https://youtu.be/VCfbfWR84Lw
 
 IX. Stillingar og leiðbeiningar fyrir uppsetningu kerfis. <br>
 Setja upp Flask, virtual engine, SQLAlchemy, Flask_login og flask_bcrypt í gegnum terminal í vs code. Hýsing var í gegnum Pythonanywhere.
+Hægt er að keyra ```pip install -r requirements.txt``` í terminal til þess að sækja alla pakkana sem við notuðum og setja þá upp.
 
 X. Heimildir. <br>
 [Todo](https://morioh.com/p/0211e637f4db) <br>
