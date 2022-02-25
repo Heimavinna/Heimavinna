@@ -53,7 +53,7 @@ XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
 Við vorum auðvitað með github 'kodi' repository'ið þar sem að við geymdum verkefnið.
 Við tókum alltaf svona góða fundi í þeim tímum sem við hittumst og unnum út frá þeim.
 Það var mjög þæginlegt og gerði það að verkum að manni fannst maður alltaf vera á sömu síðu.
-Annars fóru mestu framfarinrar fram heima þegar og var greinilegt að við vorum dugleigi
+Annars fóru mestu framfarinrar fram heima og var greinilegt að við vorum dugleigi
 í að 'pusha' og 'pulla'. Það kom aldrei upp neitt stórt vandamál
 varðandi 'conflicts'.
 
