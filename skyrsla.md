@@ -49,7 +49,6 @@ X. Heimildir. <br>
 
 
 XI. Vinnuflæði, verkaskipting og verkþættir (e. Github projects). <br>
-[Projects](https://github.com/Heimavinna/Heimavinna/projects/1) <br>
 Við vorum auðvitað með github 'kodi' repository'ið þar sem að við geymdum verkefnið.
 Við tókum alltaf svona góða fundi í þeim tímum sem við hittumst og unnum út frá þeim.
 Það var mjög þæginlegt og gerði það að verkum að manni fannst maður alltaf vera á sömu síðu.
@@ -63,6 +62,7 @@ um að búa til Login og register forminn og útfærði þau þannig að það v
 strax við database þegar Stefán fór í það. Jónas notaði líka smá JavaScript sem er eina JavaScript'ið
 í verkefninu. Þessar verkefna skiptingar voru ekkert strangar og fengu allir að dífa tánum ofan í allt. 
 
+[Projects](https://github.com/Heimavinna/Heimavinna/projects/1) <br>
 Þessi 'github projects' komu sér mjög vel þar sem að það gerði það að verkum að maður sá 
 mikið betur framfarirnar. Maður gat alveg kíkt þangað og séð hvað var eftir og vann maður þá
 bara á því og það var alveg yndislegt að geta sett hluti yfir í done.
