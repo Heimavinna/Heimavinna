@@ -16,7 +16,7 @@ svakalega öflug library eins og flask_login þar sem að hægt far að ná í f
 og login_user, logout_user og current_user sem manni fannst virka eins og hálfgerðir
 töfrar síðan voru það UserMixin og LoginManager sem einfölduðuð lífði fyrir mann líka.
 Bcrypt notuðum við til þess að 'hasha' lykilorðunum og er hægt að nota það til að af rugla
-lykilorð o.s.frv.
+lykilorð o.s.frv. Eftir að öll grunnvirkni var komin á vefsíðuna fórum við að skoða hýsingarmöguleika. Við byrjuðum á Heroku og Netlify en þessir hýsingaraðilar taka ekki við flask öppum. Þá fórum við og leituðum betur og rákumst á Python Anywhere. Við ákváðum að nota það til að hýsa síðuna.
  <br>
 
 V. Þarfagreining og hönnunarlýsing <br>
